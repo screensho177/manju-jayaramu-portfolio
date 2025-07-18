@@ -136,7 +136,11 @@ const experiences = [
     company_name: "Tata Consultancy Services",
     icon: tekisky,
     iconBg: "#383E56",
+<<<<<<< HEAD
     date: "Dec 2021 - Sept 2024",
+=======
+    date: "Dec 2021 - present",
+>>>>>>> b20ec24465f99cb0dc452a31eabbdc346d3010e2
     points: [
       "Developed scalable data pipelines with Azure Data Factory, Databricks, Kafka, and Airflow. Used Snowflake and Delta Lake for large-scale processing.",
       "Automated workflows with Python and SQL, reducing latency and minimizing errors.",
