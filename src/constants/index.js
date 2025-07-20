@@ -132,11 +132,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Data Engineer",
+    title: "Azure Engineer",
     company_name: "Tata Consultancy Services",
     icon: tekisky,
     iconBg: "#383E56",
-    date: "Dec 2021 - present",
+    date: "",
     points: [
       "Developed scalable data pipelines with Azure Data Factory, Databricks, Kafka, and Airflow. Used Snowflake and Delta Lake for large-scale processing.",
       "Automated workflows with Python and SQL, reducing latency and minimizing errors.",
