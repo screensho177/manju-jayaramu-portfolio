@@ -138,10 +138,12 @@ const experiences = [
     iconBg: "#383E56",
     date: "",
     points: [
-      "Developed scalable data pipelines with Azure Data Factory, Databricks, Kafka, and Airflow. Used Snowflake and Delta Lake for large-scale processing.",
-      "Automated workflows with Python and SQL, reducing latency and minimizing errors.",
-      "Improved data quality, governance, and security across sources. Enhanced query performance through indexing and partitioning.",
-      "Collaborated with analysts and engineers to align data solutions with business needs and drive better decision-making.",
+      "Designed and deployed scalable, modular data pipelines for machine learning workflows, incorporating temporal validation, feature windowing, and leakage prevention for accurate time-series forecasting and scoring tasks",
+      "Created custom evaluation metrics and loss functions aligned with business KPIs to handle imbalanced datasets, ensuring model performance reflects real-world priorities.",
+      "Automated data ingestion and transformation workflows using cloud-native tools (e.g., AWS Glue, Azure Data Factory, Spark), enhancing data availability and reliability for downstream analytics and modeling",
+      "Engineered multi-model ensemble systems, including stacked generalization and dynamic ensembling, to improve prediction robustness and stability across diverse user segments",
+      "Built and maintained reusable, production-ready data components for ETL, feature engineering, and model deployment, ensuring efficient collaboration across analytics, engineering, and data science teams.",
+      "Drove deep-dive analytics on complex datasets using SQL and Python, ensuring data quality, schema design, and version control for reliable insights and ML outcomes."
     ],
   },
 ];
