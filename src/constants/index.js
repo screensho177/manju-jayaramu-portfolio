@@ -138,12 +138,12 @@ const experiences = [
     iconBg: "#383E56",
     date: "",
     points: [
-      "Designed and deployed scalable, modular data pipelines for machine learning workflows, incorporating temporal validation, feature windowing, and leakage prevention for accurate time-series forecasting and scoring tasks",
-      "Created custom evaluation metrics and loss functions aligned with business KPIs to handle imbalanced datasets, ensuring model performance reflects real-world priorities.",
-      "Automated data ingestion and transformation workflows using cloud-native tools (e.g., AWS Glue, Azure Data Factory, Spark), enhancing data availability and reliability for downstream analytics and modeling",
-      "Engineered multi-model ensemble systems, including stacked generalization and dynamic ensembling, to improve prediction robustness and stability across diverse user segments",
-      "Built and maintained reusable, production-ready data components for ETL, feature engineering, and model deployment, ensuring efficient collaboration across analytics, engineering, and data science teams.",
-      "Drove deep-dive analytics on complex datasets using SQL and Python, ensuring data quality, schema design, and version control for reliable insights and ML outcomes."
+      "Designed and deployed scalable ML pipelines with temporal validation, feature windowing, and leakage control for accurate time-series forecasting.",
+      "Built ensemble systems stacked models and dynamic ensembling—to enhance prediction stability across segments.",
+      "Developed custom loss functions and KPIs-based metrics to improve performance on imbalanced datasets.",
+      "Automated data ingestion and transformation using tools like AWS Glue, Azure Data Factory, and Spark for reliable downstream analytics.",
+      "Created modular, production-ready components for ETL, feature engineering, and model deployment, streamlining team workflows.",
+      "Drove deep-dive analysis using SQL and Python, ensuring data quality, schema design, and version control for robust ML and analytics."
     ],
   },
 ];
