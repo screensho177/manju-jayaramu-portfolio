@@ -139,7 +139,7 @@ const experiences = [
     date: "",
     points: [
       "Designed and deployed scalable ML pipelines with temporal validation, feature windowing, and leakage control for accurate time-series forecasting.",
-      "Built ensemble systems stacked models and dynamic ensembling—to enhance prediction stability across segments.",
+      "Built ensemble systems stacked models and dynamic ensembling to enhance prediction stability across segments.",
       "Developed custom loss functions and KPIs-based metrics to improve performance on imbalanced datasets.",
       "Automated data ingestion and transformation using tools like AWS Glue, Azure Data Factory, and Spark for reliable downstream analytics.",
       "Created modular, production-ready components for ETL, feature engineering, and model deployment, streamlining team workflows.",
