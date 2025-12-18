@@ -132,18 +132,30 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Azure Engineer",
+    title: "Data Analyst",
     company_name: "Tata Consultancy Services",
     icon: tekisky,
     iconBg: "#383E56",
-    date: "",
+    date: "May 2021 - February 2024",
     points: [
-      "Designed and deployed scalable ML pipelines with temporal validation, feature windowing, and leakage control for accurate time-series forecasting.",
-      "Built ensemble systems stacked models and dynamic ensembling to enhance prediction stability across segments.",
-      "Developed custom loss functions and KPIs-based metrics to improve performance on imbalanced datasets.",
-      "Automated data ingestion and transformation using tools like AWS Glue, Azure Data Factory, and Spark for reliable downstream analytics.",
-      "Created modular, production-ready components for ETL, feature engineering, and model deployment, streamlining team workflows.",
-      "Drove deep-dive analysis using SQL and Python, ensuring data quality, schema design, and version control for robust ML and analytics."
+      "Engineered scalable data pipelines using Azure Data Factory, Databricks, and Spark, integrating diverse data sources into Synapse and Snowflake to support analytics, forecasting, and decision making.",
+      "Automated cleaning, transformation, and feature engineering with SQL, Python, and dbt, reducing manual workload by 25 percent while improving the reliability and accuracy of reporting datasets.",
+      "Designed and delivered Power BI dashboards and executive reports, implementing DAX optimizations, incremental refresh, and row level security to provide actionable insights and drive operational efficiency.",
+      "Conducted advanced analytics including A B testing, cohort analysis, and time series forecasting to identify growth opportunities, optimize campaigns, and improve customer retention strategies."
+    ],
+  },
+
+    {
+    title: "Generative AI Engineer",
+    company_name: "Tata Consultancy Services",
+    icon: tekisky,
+    iconBg: "#383E56",
+    date: "February 2024 - Present",
+    points: [
+      "Delivered production grade LLM systems by developing RAG pipelines with vector databases, orchestrating LangChain multi step agents, and fine tuning domain specific models using LoRA and PEFT.",
+      "Reduced hallucinations and improved factual accuracy by applying grounding techniques, source attribution, verifier models, and adversarial red teaming to identify vulnerabilities and strengthen overall system reliability.",
+      "Designed and implemented production grade generative AI workflows using retrieval augmented generation, combining vector databases, prompt templates, and source grounded responses to improve factual accuracy.",
+      "Built enterprise ready microservices, standardized embeddings and prompt libraries, established governance for model lineage and provenance, and mentored teams on GenAI adoption."
     ],
   },
 ];
@@ -224,12 +236,12 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "American Express Default Prediction",
+    name: "Kaggle Competition",
     description:
-      "Used LGBM with hyperparameter tuning, optimal binning, and IV techniques to improve credit default predictions, achieving a 0.76 score in the American Express Kaggle competition.",
+      "Contributed to two Kaggle competitions for credit default and customer churn prediction. Engineered high-value features using IV, optimal binning, and feature importance. Trained and compared models like LightGBM, Random Forest, KNN, and Extra Trees.",
     tags: [
       {
-        name: "Credit Default Prediction",
+        name: "Credit Default and Customer Churn Prediction",
         color: "blue-text-gradient",
       },
       {
@@ -238,6 +250,18 @@ const projects = [
       },
       {
         name: "Machine Learning",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Random Forest",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "KNN",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Extra Trees",
         color: "green-text-gradient",
       },
       {
