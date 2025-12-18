@@ -43,7 +43,7 @@ export {
   AI,
   cybersecurity,
   cloud,
-  databricks,
+  databrics,
   mysql,
   python,
   postgresql,
