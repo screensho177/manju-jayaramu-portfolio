@@ -21,9 +21,9 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Manju</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I build scalable data <br/>
-            pipelines and cloud solutions.<br/>
-            applications
+          I build analytics and AI<br/>
+          solutions for data driven<br/>
+          decision making.
           </p>
         </div>
       </div>

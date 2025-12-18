@@ -217,19 +217,27 @@ const projects = [
   {
     name: "Johnson & Johnson",
     description:
-      "Designed and implemented scalable Azure SQL and Data Warehousing solutions, built optimized data pipelines with Databricks and Azure Data Factory, and created interactive Tableau dashboards for actionable insights.",
+      "Worked as a Data Analyst and Generative AI Engineer in a project at Tata Consultancy Services for Johnson & Johnson, delivering analytics dashboards, automated data pipelines, and LLM powered solutions to support business and operational decision making.",
     tags: [
       {
         name: "Azure",
         color: "blue-text-gradient",
       },
       {
-        name: "Databricks",
+        name: "DataAnalytics",
         color: "green-text-gradient",
       },
       {
-        name: "Data Management",
+        name: "GenerativeAI",
         color: "pink-text-gradient",
+      },
+      {
+        name: "HealthcareAnalytics",
+        color: "green-text-gradient",
+      }
+      {
+        name: "ETLPipelines",
+        color: "blue-text-gradient",
       },
     ],
     image: gearXpert,
