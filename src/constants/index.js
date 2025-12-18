@@ -54,15 +54,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Data Engineer",
+    title: "Generative AI Engineer",
     icon: web,
   },
   {
-    title: "Cloud Engineer",
+    title: "Data Analyst",
     icon: mobile,
   },
   {
-    title: "Data Analyst",
+    title: "Data Engineer",
     icon: backend,
   },
   {
@@ -260,10 +260,7 @@ const projects = [
         name: "KNN",
         color: "pink-text-gradient",
       },
-      {
-        name: "Extra Trees",
-        color: "green-text-gradient",
-      },
+    
       {
         name: "Feature Engineering",
         color: "green-text-gradient",
