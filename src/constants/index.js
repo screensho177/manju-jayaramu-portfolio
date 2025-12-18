@@ -234,7 +234,7 @@ const projects = [
       {
         name: "HealthcareAnalytics",
         color: "green-text-gradient",
-      }
+      },
       {
         name: "ETLPipelines",
         color: "blue-text-gradient",
