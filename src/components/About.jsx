@@ -72,13 +72,12 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      I am a Generative AI Engineer and Data Analytics professional with over 4.5 years of experience building production-ready AI 
-      and data solutions in enterprise environments. My work focuses on designing and deploying large language model applications, 
-      including retrieval augmented generation systems using vector databases and LangChain to deliver reliable, source grounded outputs. 
-      Alongside GenAI, I have strong experience in building scalable cloud data platforms using Azure Data Factory, Databricks, and Spark, 
-      where I automated ETL pipelines and supported lakehouse architectures for analytics and decision making. I enjoy transforming proof of 
-      concepts into reusable, maintainable solutions that teams can confidently adopt, while contributing to data driven thinking across 
-      technical and business stakeholders.
+      I am a Data Analyst with 4+ years of experience transforming complex data into strategic business insights. 
+      I specialize in statistical analysis, predictive modeling, and interactive dashboard development using Power BI, 
+      Python, and SQL. I build automated data pipelines with Azure Data Factory and Databricks that process millions 
+      of records daily, enabling real-time analytics and executive reporting. My expertise spans A/B testing, customer 
+      segmentation, time-series forecasting, and ETL automation. I translate technical findings into actionable 
+      recommendations that drive measurable business impact across sales, marketing, and operations teams.
        
       </p>
 

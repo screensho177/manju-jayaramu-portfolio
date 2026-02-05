@@ -54,11 +54,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Generative AI Engineer",
+    title: "Data Analyst",
     icon: web,
   },
   {
-    title: "Data Analyst",
+    title: "Analytics Engineer",
     icon: mobile,
   },
   {
@@ -66,7 +66,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Business Analyst",
+    title: "Business Intelligence (BI) Developer/Engineer",
     icon: creator,
   },
 ];
@@ -136,28 +136,17 @@ const experiences = [
     company_name: "Tata Consultancy Services",
     icon: tekisky,
     iconBg: "#383E56",
-    date: "May 2021 - February 2024",
+    date: "December 2021 - Present",
     points: [
-      "Engineered scalable data pipelines using Azure Data Factory, Databricks, and Spark, integrating diverse data sources into Synapse and Snowflake to support analytics, forecasting, and decision making.",
-      "Automated cleaning, transformation, and feature engineering with SQL, Python, and dbt, reducing manual workload by 25 percent while improving the reliability and accuracy of reporting datasets.",
-      "Designed and delivered Power BI dashboards and executive reports, implementing DAX optimizations, incremental refresh, and row level security to provide actionable insights and drive operational efficiency.",
-      "Conducted advanced analytics including A B testing, cohort analysis, and time series forecasting to identify growth opportunities, optimize campaigns, and improve customer retention strategies."
+      "Engineered scalable data pipelines using Azure Data Factory, Databricks, and Apache Spark, integrating 10+ data sources into Synapse and Snowflake warehouses, processing 2M+ records daily with automated data quality checks and validation rules that reduced manual processing time by 25%",
+      "Designed and delivered 15+ interactive Power BI dashboards and executive reports with advanced DAX calculations, complex data models, incremental refresh strategies, and row-level security, providing real-time visibility into KPIs across sales, marketing, and operations that drove 20% improvement in operational efficiency",
+      "Conducted advanced statistical analysis including A/B testing on marketing campaigns (analyzing 100K+ user interactions with 95% confidence intervals), cohort analysis for customer retention patterns, and ARIMA-based time-series forecasting to identify growth opportunities and optimize resource allocation, resulting in 18% increase in campaign ROI",
+      "Performed customer segmentation analysis using K-means clustering and RFM modeling on 500K+ customer records, identifying 5 distinct behavioral segments that enabled targeted marketing strategies and contributed to 22% increase in conversion rates and improved customer lifetime value.",
+      "Integrated LLM-powered data classification and entity extraction into ETL pipelines to automate product categorization and standardize unstructured business data, reducing manual tagging effort by 40 percent and improving data quality for downstream analytics",
+      "Built AI-assisted analytics tools combining SQL-based data retrieval with generative AI summarization to auto-generate executive insights from KPI dashboards, enabling non-technical stakeholders to interact with data through natural language queries and reducing reporting turnaround time by 30 percent",
     ],
   },
 
-    {
-    title: "Generative AI Engineer",
-    company_name: "Tata Consultancy Services",
-    icon: tekisky,
-    iconBg: "#383E56",
-    date: "February 2024 - Present",
-    points: [
-      "Delivered production grade LLM systems by developing RAG pipelines with vector databases, orchestrating LangChain multi step agents, and fine tuning domain specific models using LoRA and PEFT.",
-      "Reduced hallucinations and improved factual accuracy by applying grounding techniques, source attribution, verifier models, and adversarial red teaming to identify vulnerabilities and strengthen overall system reliability.",
-      "Designed and implemented production grade generative AI workflows using retrieval augmented generation, combining vector databases, prompt templates, and source grounded responses to improve factual accuracy.",
-      "Built enterprise ready microservices, standardized embeddings and prompt libraries, established governance for model lineage and provenance, and mentored teams on GenAI adoption."
-    ],
-  },
 ];
 
 const testimonials = [
